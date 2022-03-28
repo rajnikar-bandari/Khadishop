@@ -1,0 +1,682 @@
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 20 Apr 2020 05:51:11 +0000
+CLIENT -> SERVER: To: rajnikar@ardent-india.com
+CLIENT -> SERVER: From: khadishop <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: fsafda tewqrewqr <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop]: New order #862
+CLIENT -> SERVER: Message-ID: <449c6092032de6d41b8485459202707e@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>=0A<html lang=3D"en-US">=0A<head>=0A<meta http-equiv=3D"Cont=
+CLIENT -> SERVER: ent-Type" content=3D"text/html; charset=3DUTF-8">=0A<title>khadishop</title=
+CLIENT -> SERVER: >=0A</head>=0A<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marg=
+CLIENT -> SERVER: inheight=3D"0" offset=3D"0" style=3D"padding: 0;">=0A=09=09<div id=3D"wrapp=
+CLIENT -> SERVER: er" dir=3D"ltr" style=3D"background-color: #f7f7f7; margin: 0; padding: 70p=
+CLIENT -> SERVER: x 0; width: 100%; -webkit-text-size-adjust: none;">=0A=09=09=09<table borde=
+CLIENT -> SERVER: r=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%">=
+CLIENT -> SERVER: =0A<tr>=0A<td align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09<div id=
+CLIENT -> SERVER: =3D"template_header_image">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=
+CLIENT -> SERVER: =0A=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+CLIENT -> SERVER: " width=3D"600" id=3D"template_container" style=3D"background-color: #fffff=
+CLIENT -> SERVER: f; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); bor=
+CLIENT -> SERVER: der-radius: 3px;">=0A<tr>=0A<td align=3D"center" valign=3D"top">=0A=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09<!-- Header -->=0A=09=09=09=09=09=09=09=09=09<table bo=
+CLIENT -> SERVER: rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templat=
+CLIENT -> SERVER: e_header" style=3D'background-color: #96588a; color: #ffffff; border-bottom=
+CLIENT -> SERVER: : 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-fam=
+CLIENT -> SERVER: ily: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius:=
+CLIENT -> SERVER:  3px 3px 0 0;'><tr>=0A<td id=3D"header_wrapper" style=3D"padding: 36px 48px=
+CLIENT -> SERVER: ; display: block;">=0A=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D'font=
+CLIENT -> SERVER: -family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size:=
+CLIENT -> SERVER:  30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; te=
+CLIENT -> SERVER: xt-shadow: 0 1px 0 #ab79a1; color: #ffffff;'>New Order: #862</h1>=0A=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09</tr></tab=
+CLIENT -> SERVER: le>=0A<!-- End Header -->=0A</td>=0A=09=09=09=09=09=09=09</tr>=0A<tr>=0A<td=
+CLIENT -> SERVER:  align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09<!-- Body --=
+CLIENT -> SERVER: >=0A=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellsp=
+CLIENT -> SERVER: acing=3D"0" width=3D"600" id=3D"template_body"><tr>=0A<td valign=3D"top" id=
+CLIENT -> SERVER: =3D"body_content" style=3D"background-color: #ffffff;">=0A=09=09=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09<!-- Content -->=0A=09=09=09=09=09=09=09=09=09=09=09=
+CLIENT -> SERVER: =09<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D"100%">=
+CLIENT -> SERVER: <tr>=0A<td valign=3D"top" style=3D"padding: 48px 48px 32px;">=0A=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09=09=09=09=09=09<div id=3D"body_content_inner" style=3D=
+CLIENT -> SERVER: 'color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, s=
+CLIENT -> SERVER: ans-serif; font-size: 14px; line-height: 150%; text-align: left;'>=0A=0A<p =
+CLIENT -> SERVER: style=3D"margin: 0 0 16px;">You=E2=80=99ve received the following order fro=
+CLIENT -> SERVER: m fsafda tewqrewqr:</p>=0A=0A<h2 style=3D'color: #96588a; display: block; f=
+CLIENT -> SERVER: ont-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-si=
+CLIENT -> SERVER: ze: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-alig=
+CLIENT -> SERVER: n: left;'>=0A=09<a class=3D"link" href=3D"http://dev.gunturkhadi.org.in/wp-=
+CLIENT -> SERVER: admin/post.php?post=3D862&amp;action=3Dedit" style=3D"font-weight: normal; =
+CLIENT -> SERVER: text-decoration: underline; color: #96588a;">[Order #862]</a> (April 20, 20=
+CLIENT -> SERVER: 20)</h2>=0A=0A<div style=3D"margin-bottom: 40px;">=0A=09<table class=3D"td"=
+CLIENT -> SERVER:  cellspacing=3D"0" cellpadding=3D"6" border=3D"1" style=3D"color: #636363; =
+CLIENT -> SERVER: border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family=
+CLIENT -> SERVER: : 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">=0A<thead><tr>=
+CLIENT -> SERVER: =0A<th class=3D"td" scope=3D"col" style=3D"color: #636363; border: 1px soli=
+CLIENT -> SERVER: d #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">Produc=
+CLIENT -> SERVER: t</th>=0A=09=09=09=09<th class=3D"td" scope=3D"col" style=3D"color: #636363=
+CLIENT -> SERVER: ; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-al=
+CLIENT -> SERVER: ign: left;">Quantity</th>=0A=09=09=09=09<th class=3D"td" scope=3D"col" styl=
+CLIENT -> SERVER: e=3D"color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; pad=
+CLIENT -> SERVER: ding: 12px; text-align: left;">Price</th>=0A=09=09=09</tr></thead>=0A<tbody=
+CLIENT -> SERVER: ><tr class=3D"order_item">=0A<td class=3D"td" style=3D"color: #636363; bord=
+CLIENT -> SERVER: er: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-align: mid=
+CLIENT -> SERVER: dle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; w=
+CLIENT -> SERVER: ord-wrap: break-word;">=0A=09=09Happy Ninja (#T-SHIRT-HAPPY-NINJA)=09=09</t=
+CLIENT -> SERVER: d>=0A=09=09<td class=3D"td" style=3D"color: #636363; border: 1px solid #e5e=
+CLIENT -> SERVER: 5e5; padding: 12px; text-align: left; vertical-align: middle; font-family: =
+CLIENT -> SERVER: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">=0A=09=09=091=09=
+CLIENT -> SERVER: =09</td>=0A=09=09<td class=3D"td" style=3D"color: #636363; border: 1px soli=
+CLIENT -> SERVER: d #e5e5e5; padding: 12px; text-align: left; vertical-align: middle; font-fa=
+CLIENT -> SERVER: mily: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">=0A=09=09=09=
+CLIENT -> SERVER: <span class=3D"woocommerce-Price-amount amount"><span class=3D"woocommerce-=
+CLIENT -> SERVER: Price-currencySymbol">=E2=82=B9</span>18.00</span>=09=09</td>=0A=09</tr></t=
+CLIENT -> SERVER: body>=0A<tfoot>=0A<tr>=0A<th class=3D"td" scope=3D"row" colspan=3D"2" style=
+CLIENT -> SERVER: =3D"color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padd=
+CLIENT -> SERVER: ing: 12px; text-align: left; border-top-width: 4px;">Subtotal:</th>=0A=09=
+CLIENT -> SERVER: =09=09=09=09=09<td class=3D"td" style=3D"color: #636363; border: 1px solid =
+CLIENT -> SERVER: #e5e5e5; vertical-align: middle; padding: 12px; text-align: left; border-to=
+CLIENT -> SERVER: p-width: 4px;"><span class=3D"woocommerce-Price-amount amount"><span class=
+CLIENT -> SERVER: =3D"woocommerce-Price-currencySymbol">=E2=82=B9</span>18.00</span></td>=0A=
+CLIENT -> SERVER: =09=09=09=09=09</tr>=0A<tr>=0A<th class=3D"td" scope=3D"row" colspan=3D"2" =
+CLIENT -> SERVER: style=3D"color: #636363; border: 1px solid #e5e5e5; vertical-align: middle;=
+CLIENT -> SERVER:  padding: 12px; text-align: left;">Shipping:</th>=0A=09=09=09=09=09=09<td c=
+CLIENT -> SERVER: lass=3D"td" style=3D"color: #636363; border: 1px solid #e5e5e5; vertical-al=
+CLIENT -> SERVER: ign: middle; padding: 12px; text-align: left;">=0A<span class=3D"woocommerc=
+CLIENT -> SERVER: e-Price-amount amount"><span class=3D"woocommerce-Price-currencySymbol">=
+CLIENT -> SERVER: =E2=82=B9</span>200.00</span>=C2=A0<small class=3D"shipped_via">via Flat ra=
+CLIENT -> SERVER: te</small>=0A</td>=0A=09=09=09=09=09</tr>=0A<tr>=0A<th class=3D"td" scope=
+CLIENT -> SERVER: =3D"row" colspan=3D"2" style=3D"color: #636363; border: 1px solid #e5e5e5; =
+CLIENT -> SERVER: vertical-align: middle; padding: 12px; text-align: left;">Payment method:</=
+CLIENT -> SERVER: th>=0A=09=09=09=09=09=09<td class=3D"td" style=3D"color: #636363; border: 1=
+CLIENT -> SERVER: px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;"=
+CLIENT -> SERVER: >Cash on delivery</td>=0A=09=09=09=09=09</tr>=0A<tr>=0A<th class=3D"td" sco=
+CLIENT -> SERVER: pe=3D"row" colspan=3D"2" style=3D"color: #636363; border: 1px solid #e5e5e5=
+CLIENT -> SERVER: ; vertical-align: middle; padding: 12px; text-align: left;">Total:</th>=0A=
+CLIENT -> SERVER: =09=09=09=09=09=09<td class=3D"td" style=3D"color: #636363; border: 1px sol=
+CLIENT -> SERVER: id #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;"><span=
+CLIENT -> SERVER:  class=3D"woocommerce-Price-amount amount"><span class=3D"woocommerce-Price=
+CLIENT -> SERVER: -currencySymbol">=E2=82=B9</span>218.00</span></td>=0A=09=09=09=09=09</tr>=
+CLIENT -> SERVER: =0A</tfoot>=0A</table>=0A</div>=0A=0A<div style=3D"display: none; font-size=
+CLIENT -> SERVER: : 0; max-height: 0; line-height: 0; padding: 0; mso-hide: all;"><script typ=
+CLIENT -> SERVER: e=3D"application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Ord=
+CLIENT -> SERVER: er","url":"http:\/\/dev.gunturkhadi.org.in\/wp-admin\/post.php?post=3D862&a=
+CLIENT -> SERVER: mp;action=3Dedit","orderStatus":"https:\/\/schema.org\/OrderProcessing","or=
+CLIENT -> SERVER: derNumber":"862","orderDate":"2020-04-20T05:51:10+00:00","acceptedOffer":[{=
+CLIENT -> SERVER: "@type":"Offer","price":18,"priceCurrency":"INR","priceSpecification":{"pri=
+CLIENT -> SERVER: ce":18,"priceCurrency":"INR","eligibleQuantity":{"@type":"QuantitativeValue=
+CLIENT -> SERVER: ","value":1}},"itemOffered":{"@type":"Product","name":"Happy Ninja","sku":"=
+CLIENT -> SERVER: T-SHIRT-HAPPY-NINJA","image":"http:\/\/dev.gunturkhadi.org.in\/wp-content\/=
+CLIENT -> SERVER: uploads\/2020\/03\/T_7_front-150x150.jpg","url":"http:\/\/dev.gunturkhadi.o=
+CLIENT -> SERVER: rg.in\/shop\/happy-ninja-2\/"},"seller":{"@type":"Organization","name":"kha=
+CLIENT -> SERVER: dishop","url":"http:\/\/dev.gunturkhadi.org.in"}}],"discount":0,"discountCu=
+CLIENT -> SERVER: rrency":"INR","price":"218.00","priceCurrency":"INR","priceSpecification":{=
+CLIENT -> SERVER: "price":"218.00","priceCurrency":"INR","valueAddedTaxIncluded":"true"},"bil=
+CLIENT -> SERVER: lingAddress":{"@type":"PostalAddress","name":"fsafda tewqrewqr","streetAddr=
+CLIENT -> SERVER: ess":"rewrerqew","postalCode":"500050","addressLocality":"terwtrewtr","addr=
+CLIENT -> SERVER: essRegion":"AP","addressCountry":"IN","email":"rajnikar@ardent-india.com","=
+CLIENT -> SERVER: telephone":"5454434332"},"customer":{"@type":"Person","name":"fsafda tewqre=
+CLIENT -> SERVER: wqr"},"merchant":{"@type":"Organization","name":"khadishop","url":"http:\/\=
+CLIENT -> SERVER: /dev.gunturkhadi.org.in"},"potentialAction":{"@type":"ViewAction","name":"V=
+CLIENT -> SERVER: iew Order","url":"http:\/\/dev.gunturkhadi.org.in\/wp-admin\/post.php?post=
+CLIENT -> SERVER: =3D862&amp;action=3Dedit","target":"http:\/\/dev.gunturkhadi.org.in\/wp-adm=
+CLIENT -> SERVER: in\/post.php?post=3D862&amp;action=3Dedit"}}</script></div>=0A<table id=3D"=
+CLIENT -> SERVER: addresses" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"width:=
+CLIENT -> SERVER:  100%; vertical-align: top; margin-bottom: 40px; padding: 0;"><tr>=0A<td va=
+CLIENT -> SERVER: lign=3D"top" width=3D"50%" style=3D"text-align: left; font-family: 'Helveti=
+CLIENT -> SERVER: ca Neue', Helvetica, Roboto, Arial, sans-serif; border: 0; padding: 0;">=0A=
+CLIENT -> SERVER: =09=09=09<h2 style=3D'color: #96588a; display: block; font-family: "Helveti=
+CLIENT -> SERVER: ca Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weigh=
+CLIENT -> SERVER: t: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>Billing ad=
+CLIENT -> SERVER: dress</h2>=0A=0A=09=09=09<address class=3D"address" style=3D"padding: 12px;=
+CLIENT -> SERVER:  color: #636363; border: 1px solid #e5e5e5;">=0A=09=09=09=09fdsadsfdsa<br>f=
+CLIENT -> SERVER: safda tewqrewqr<br>rewrerqew<br>afeafdsaf<br>terwtrewtr 500050<br>Andhra Pr=
+CLIENT -> SERVER: adesh=09=09=09=09=09=09=09=09=09<br><a href=3D"tel:5454434332" style=3D"col=
+CLIENT -> SERVER: or: #96588a; font-weight: normal; text-decoration: underline;">5454434332</=
+CLIENT -> SERVER: a>=09=09=09=09=09=09=09=09=09=09=09=09=09<br>rajnikar@ardent-india.com=09=
+CLIENT -> SERVER: =09=09=09=09=09=09</address>=0A=09=09</td>=0A=09=09=09=09=09<td valign=3D"t=
+CLIENT -> SERVER: op" width=3D"50%" style=3D"text-align: left; font-family: 'Helvetica Neue',=
+CLIENT -> SERVER:  Helvetica, Roboto, Arial, sans-serif; padding: 0;">=0A=09=09=09=09<h2 styl=
+CLIENT -> SERVER: e=3D'color: #96588a; display: block; font-family: "Helvetica Neue", Helveti=
+CLIENT -> SERVER: ca, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-hei=
+CLIENT -> SERVER: ght: 130%; margin: 0 0 18px; text-align: left;'>Shipping address</h2>=0A=0A=
+CLIENT -> SERVER: =09=09=09=09<address class=3D"address" style=3D"padding: 12px; color: #6363=
+CLIENT -> SERVER: 63; border: 1px solid #e5e5e5;">fdsadsfdsa<br>fsafda tewqrewqr<br>rewrerqew=
+CLIENT -> SERVER: <br>afeafdsaf<br>terwtrewtr 500050<br>Andhra Pradesh</address>=0A=09=09=09<=
+CLIENT -> SERVER: /td>=0A=09=09=09</tr></table>=0A<p style=3D"margin: 0 0 16px;">Congratulati=
+CLIENT -> SERVER: ons on the sale.</p>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=
+CLIENT -> SERVER: =0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09</tr></table>=0A<!-- End Content -->=0A</td>=0A=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09</tr></table>=0A<!-- End Body -->=0A</td>=0A=09=09=09=
+CLIENT -> SERVER: =09=09=09=09</tr>=0A</table>=0A</td>=0A=09=09=09=09</tr>=0A<tr>=0A<td align=
+CLIENT -> SERVER: =3D"center" valign=3D"top">=0A=09=09=09=09=09=09<!-- Footer -->=0A=09=09=09=
+CLIENT -> SERVER: =09=09=09<table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"=
+CLIENT -> SERVER: 600" id=3D"template_footer"><tr>=0A<td valign=3D"top" style=3D"padding: 0; =
+CLIENT -> SERVER: border-radius: 6px;">=0A=09=09=09=09=09=09=09=09=09<table border=3D"0" cell=
+CLIENT -> SERVER: padding=3D"10" cellspacing=3D"0" width=3D"100%"><tr>=0A<td colspan=3D"2" va=
+CLIENT -> SERVER: lign=3D"middle" id=3D"credit" style=3D'border-radius: 6px; border: 0; color=
+CLIENT -> SERVER: : #8a8a8a; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-se=
+CLIENT -> SERVER: rif; font-size: 12px; line-height: 150%; text-align: center; padding: 24px =
+CLIENT -> SERVER: 0;'>=0A=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0 0 16px;">k=
+CLIENT -> SERVER: hadishop =E2=80=94 Built with <a href=3D"https://woocommerce.com" style=3D"=
+CLIENT -> SERVER: color: #96588a; font-weight: normal; text-decoration: underline;">WooCommer=
+CLIENT -> SERVER: ce</a></p>=0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+CLIENT -> SERVER: =09=09=09</tr></table>=0A</td>=0A=09=09=09=09=09=09=09</tr></table>=0A<!-- =
+CLIENT -> SERVER: End Footer -->=0A</td>=0A=09=09=09=09</tr>=0A</table>=0A</div>=0A=09</body>=
+CLIENT -> SERVER: =0A</html>=0A
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 20 Apr 2020 05:51:12 +0000
+CLIENT -> SERVER: To: rajnikar@ardent-india.com
+CLIENT -> SERVER: From: khadishop <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: khadishop <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: Your khadishop order has been received!
+CLIENT -> SERVER: Message-ID: <f491448d1c26687f855af184d739e896@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: Content-Transfer-Encoding: quoted-printable
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <!DOCTYPE html>=0A<html lang=3D"en-US">=0A<head>=0A<meta http-equiv=3D"Cont=
+CLIENT -> SERVER: ent-Type" content=3D"text/html; charset=3DUTF-8">=0A<title>khadishop</title=
+CLIENT -> SERVER: >=0A</head>=0A<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marg=
+CLIENT -> SERVER: inheight=3D"0" offset=3D"0" style=3D"padding: 0;">=0A=09=09<div id=3D"wrapp=
+CLIENT -> SERVER: er" dir=3D"ltr" style=3D"background-color: #f7f7f7; margin: 0; padding: 70p=
+CLIENT -> SERVER: x 0; width: 100%; -webkit-text-size-adjust: none;">=0A=09=09=09<table borde=
+CLIENT -> SERVER: r=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%">=
+CLIENT -> SERVER: =0A<tr>=0A<td align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09<div id=
+CLIENT -> SERVER: =3D"template_header_image">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=
+CLIENT -> SERVER: =0A=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+CLIENT -> SERVER: " width=3D"600" id=3D"template_container" style=3D"background-color: #fffff=
+CLIENT -> SERVER: f; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); bor=
+CLIENT -> SERVER: der-radius: 3px;">=0A<tr>=0A<td align=3D"center" valign=3D"top">=0A=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09<!-- Header -->=0A=09=09=09=09=09=09=09=09=09<table bo=
+CLIENT -> SERVER: rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" id=3D"templat=
+CLIENT -> SERVER: e_header" style=3D'background-color: #96588a; color: #ffffff; border-bottom=
+CLIENT -> SERVER: : 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-fam=
+CLIENT -> SERVER: ily: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius:=
+CLIENT -> SERVER:  3px 3px 0 0;'><tr>=0A<td id=3D"header_wrapper" style=3D"padding: 36px 48px=
+CLIENT -> SERVER: ; display: block;">=0A=09=09=09=09=09=09=09=09=09=09=09=09<h1 style=3D'font=
+CLIENT -> SERVER: -family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size:=
+CLIENT -> SERVER:  30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; te=
+CLIENT -> SERVER: xt-shadow: 0 1px 0 #ab79a1; color: #ffffff;'>Thank you for your order</h1>=
+CLIENT -> SERVER: =0A=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09<=
+CLIENT -> SERVER: /tr></table>=0A<!-- End Header -->=0A</td>=0A=09=09=09=09=09=09=09</tr>=0A<=
+CLIENT -> SERVER: tr>=0A<td align=3D"center" valign=3D"top">=0A=09=09=09=09=09=09=09=09=09<!-=
+CLIENT -> SERVER: - Body -->=0A=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"=
+CLIENT -> SERVER: 0" cellspacing=3D"0" width=3D"600" id=3D"template_body"><tr>=0A<td valign=
+CLIENT -> SERVER: =3D"top" id=3D"body_content" style=3D"background-color: #ffffff;">=0A=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09=09=09=09<!-- Content -->=0A=09=09=09=09=09=09=09=09=
+CLIENT -> SERVER: =09=09=09=09<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=
+CLIENT -> SERVER: =3D"100%"><tr>=0A<td valign=3D"top" style=3D"padding: 48px 48px 32px;">=0A=
+CLIENT -> SERVER: =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div id=3D"body_content_inner"=
+CLIENT -> SERVER:  style=3D'color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto,=
+CLIENT -> SERVER:  Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>=
+CLIENT -> SERVER: =0A=0A<p style=3D"margin: 0 0 16px;">Hi fsafda,</p>=0A<p style=3D"margin: 0=
+CLIENT -> SERVER:  0 16px;">Just to let you know =E2=80=94 we've received your order #862, an=
+CLIENT -> SERVER: d it is now being processed:</p>=0A=0A<p style=3D"margin: 0 0 16px;">Pay wi=
+CLIENT -> SERVER: th cash upon delivery.</p>=0A=0A=0A<h2 style=3D'color: #96588a; display: bl=
+CLIENT -> SERVER: ock; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; f=
+CLIENT -> SERVER: ont-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; tex=
+CLIENT -> SERVER: t-align: left;'>=0A=09[Order #862] (April 20, 2020)</h2>=0A=0A<div style=3D=
+CLIENT -> SERVER: "margin-bottom: 40px;">=0A=09<table class=3D"td" cellspacing=3D"0" cellpadd=
+CLIENT -> SERVER: ing=3D"6" border=3D"1" style=3D"color: #636363; border: 1px solid #e5e5e5; =
+CLIENT -> SERVER: vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helveti=
+CLIENT -> SERVER: ca, Roboto, Arial, sans-serif;">=0A<thead><tr>=0A<th class=3D"td" scope=3D"=
+CLIENT -> SERVER: col" style=3D"color: #636363; border: 1px solid #e5e5e5; vertical-align: mi=
+CLIENT -> SERVER: ddle; padding: 12px; text-align: left;">Product</th>=0A=09=09=09=09<th clas=
+CLIENT -> SERVER: s=3D"td" scope=3D"col" style=3D"color: #636363; border: 1px solid #e5e5e5; =
+CLIENT -> SERVER: vertical-align: middle; padding: 12px; text-align: left;">Quantity</th>=0A=
+CLIENT -> SERVER: =09=09=09=09<th class=3D"td" scope=3D"col" style=3D"color: #636363; border:=
+CLIENT -> SERVER:  1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left=
+CLIENT -> SERVER: ;">Price</th>=0A=09=09=09</tr></thead>=0A<tbody><tr class=3D"order_item">=
+CLIENT -> SERVER: =0A<td class=3D"td" style=3D"color: #636363; border: 1px solid #e5e5e5; pad=
+CLIENT -> SERVER: ding: 12px; text-align: left; vertical-align: middle; font-family: 'Helveti=
+CLIENT -> SERVER: ca Neue', Helvetica, Roboto, Arial, sans-serif; word-wrap: break-word;">=0A=
+CLIENT -> SERVER: =09=09Happy Ninja=09=09</td>=0A=09=09<td class=3D"td" style=3D"color: #6363=
+CLIENT -> SERVER: 63; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertical-al=
+CLIENT -> SERVER: ign: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-=
+CLIENT -> SERVER: serif;">=0A=09=09=091=09=09</td>=0A=09=09<td class=3D"td" style=3D"color: #=
+CLIENT -> SERVER: 636363; border: 1px solid #e5e5e5; padding: 12px; text-align: left; vertica=
+CLIENT -> SERVER: l-align: middle; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, s=
+CLIENT -> SERVER: ans-serif;">=0A=09=09=09<span class=3D"woocommerce-Price-amount amount"><sp=
+CLIENT -> SERVER: an class=3D"woocommerce-Price-currencySymbol">=E2=82=B9</span>18.00</span>=
+CLIENT -> SERVER: =09=09</td>=0A=09</tr></tbody>=0A<tfoot>=0A<tr>=0A<th class=3D"td" scope=3D=
+CLIENT -> SERVER: "row" colspan=3D"2" style=3D"color: #636363; border: 1px solid #e5e5e5; ver=
+CLIENT -> SERVER: tical-align: middle; padding: 12px; text-align: left; border-top-width: 4px=
+CLIENT -> SERVER: ;">Subtotal:</th>=0A=09=09=09=09=09=09<td class=3D"td" style=3D"color: #636=
+CLIENT -> SERVER: 363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text=
+CLIENT -> SERVER: -align: left; border-top-width: 4px;"><span class=3D"woocommerce-Price-amou=
+CLIENT -> SERVER: nt amount"><span class=3D"woocommerce-Price-currencySymbol">=E2=82=B9</span=
+CLIENT -> SERVER: >18.00</span></td>=0A=09=09=09=09=09</tr>=0A<tr>=0A<th class=3D"td" scope=
+CLIENT -> SERVER: =3D"row" colspan=3D"2" style=3D"color: #636363; border: 1px solid #e5e5e5; =
+CLIENT -> SERVER: vertical-align: middle; padding: 12px; text-align: left;">Shipping:</th>=0A=
+CLIENT -> SERVER: =09=09=09=09=09=09<td class=3D"td" style=3D"color: #636363; border: 1px sol=
+CLIENT -> SERVER: id #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;">=0A<s=
+CLIENT -> SERVER: pan class=3D"woocommerce-Price-amount amount"><span class=3D"woocommerce-Pr=
+CLIENT -> SERVER: ice-currencySymbol">=E2=82=B9</span>200.00</span>=C2=A0<small class=3D"ship=
+CLIENT -> SERVER: ped_via">via Flat rate</small>=0A</td>=0A=09=09=09=09=09</tr>=0A<tr>=0A<th =
+CLIENT -> SERVER: class=3D"td" scope=3D"row" colspan=3D"2" style=3D"color: #636363; border: 1=
+CLIENT -> SERVER: px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left;"=
+CLIENT -> SERVER: >Payment method:</th>=0A=09=09=09=09=09=09<td class=3D"td" style=3D"color: =
+CLIENT -> SERVER: #636363; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; =
+CLIENT -> SERVER: text-align: left;">Cash on delivery</td>=0A=09=09=09=09=09</tr>=0A<tr>=0A<t=
+CLIENT -> SERVER: h class=3D"td" scope=3D"row" colspan=3D"2" style=3D"color: #636363; border:=
+CLIENT -> SERVER:  1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-align: left=
+CLIENT -> SERVER: ;">Total:</th>=0A=09=09=09=09=09=09<td class=3D"td" style=3D"color: #636363=
+CLIENT -> SERVER: ; border: 1px solid #e5e5e5; vertical-align: middle; padding: 12px; text-al=
+CLIENT -> SERVER: ign: left;"><span class=3D"woocommerce-Price-amount amount"><span class=3D"=
+CLIENT -> SERVER: woocommerce-Price-currencySymbol">=E2=82=B9</span>218.00</span></td>=0A=09=
+CLIENT -> SERVER: =09=09=09=09</tr>=0A</tfoot>=0A</table>=0A</div>=0A=0A<div style=3D"display=
+CLIENT -> SERVER: : none; font-size: 0; max-height: 0; line-height: 0; padding: 0; mso-hide: =
+CLIENT -> SERVER: all;"><script type=3D"application/ld+json">{"@context":"https:\/\/schema.or=
+CLIENT -> SERVER: g\/","@type":"Order","url":"http:\/\/dev.gunturkhadi.org.in\/my-account\/vi=
+CLIENT -> SERVER: ew-order\/862\/","orderStatus":"https:\/\/schema.org\/OrderProcessing","ord=
+CLIENT -> SERVER: erNumber":"862","orderDate":"2020-04-20T05:51:10+00:00","acceptedOffer":[{"=
+CLIENT -> SERVER: @type":"Offer","price":18,"priceCurrency":"INR","priceSpecification":{"pric=
+CLIENT -> SERVER: e":18,"priceCurrency":"INR","eligibleQuantity":{"@type":"QuantitativeValue"=
+CLIENT -> SERVER: ,"value":1}},"itemOffered":{"@type":"Product","name":"Happy Ninja","sku":"T=
+CLIENT -> SERVER: -SHIRT-HAPPY-NINJA","image":"http:\/\/dev.gunturkhadi.org.in\/wp-content\/u=
+CLIENT -> SERVER: ploads\/2020\/03\/T_7_front-150x150.jpg","url":"http:\/\/dev.gunturkhadi.or=
+CLIENT -> SERVER: g.in\/shop\/happy-ninja-2\/"},"seller":{"@type":"Organization","name":"khad=
+CLIENT -> SERVER: ishop","url":"http:\/\/dev.gunturkhadi.org.in"}}],"discount":0,"discountCur=
+CLIENT -> SERVER: rency":"INR","price":"218.00","priceCurrency":"INR","priceSpecification":{"=
+CLIENT -> SERVER: price":"218.00","priceCurrency":"INR","valueAddedTaxIncluded":"true"},"bill=
+CLIENT -> SERVER: ingAddress":{"@type":"PostalAddress","name":"fsafda tewqrewqr","streetAddre=
+CLIENT -> SERVER: ss":"rewrerqew","postalCode":"500050","addressLocality":"terwtrewtr","addre=
+CLIENT -> SERVER: ssRegion":"AP","addressCountry":"IN","email":"rajnikar@ardent-india.com","t=
+CLIENT -> SERVER: elephone":"5454434332"},"customer":{"@type":"Person","name":"fsafda tewqrew=
+CLIENT -> SERVER: qr"},"merchant":{"@type":"Organization","name":"khadishop","url":"http:\/\/=
+CLIENT -> SERVER: dev.gunturkhadi.org.in"},"potentialAction":{"@type":"ViewAction","name":"Vi=
+CLIENT -> SERVER: ew Order","url":"http:\/\/dev.gunturkhadi.org.in\/my-account\/view-order\/8=
+CLIENT -> SERVER: 62\/","target":"http:\/\/dev.gunturkhadi.org.in\/my-account\/view-order\/86=
+CLIENT -> SERVER: 2\/"}}</script></div>=0A<table id=3D"addresses" cellspacing=3D"0" cellpaddi=
+CLIENT -> SERVER: ng=3D"0" border=3D"0" style=3D"width: 100%; vertical-align: top; margin-bot=
+CLIENT -> SERVER: tom: 40px; padding: 0;"><tr>=0A<td valign=3D"top" width=3D"50%" style=3D"te=
+CLIENT -> SERVER: xt-align: left; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sa=
+CLIENT -> SERVER: ns-serif; border: 0; padding: 0;">=0A=09=09=09<h2 style=3D'color: #96588a; =
+CLIENT -> SERVER: display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sa=
+CLIENT -> SERVER: ns-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 =
+CLIENT -> SERVER: 0 18px; text-align: left;'>Billing address</h2>=0A=0A=09=09=09<address clas=
+CLIENT -> SERVER: s=3D"address" style=3D"padding: 12px; color: #636363; border: 1px solid #e5=
+CLIENT -> SERVER: e5e5;">=0A=09=09=09=09fdsadsfdsa<br>fsafda tewqrewqr<br>rewrerqew<br>afeafd=
+CLIENT -> SERVER: saf<br>terwtrewtr 500050<br>Andhra Pradesh=09=09=09=09=09=09=09=09=09<br><a=
+CLIENT -> SERVER:  href=3D"tel:5454434332" style=3D"color: #96588a; font-weight: normal; text=
+CLIENT -> SERVER: -decoration: underline;">5454434332</a>=09=09=09=09=09=09=09=09=09=09=09=09=
+CLIENT -> SERVER: =09<br>rajnikar@ardent-india.com=09=09=09=09=09=09=09</address>=0A=09=09</t=
+CLIENT -> SERVER: d>=0A=09=09=09=09=09<td valign=3D"top" width=3D"50%" style=3D"text-align: l=
+CLIENT -> SERVER: eft; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; p=
+CLIENT -> SERVER: adding: 0;">=0A=09=09=09=09<h2 style=3D'color: #96588a; display: block; fon=
+CLIENT -> SERVER: t-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size=
+CLIENT -> SERVER: : 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align:=
+CLIENT -> SERVER:  left;'>Shipping address</h2>=0A=0A=09=09=09=09<address class=3D"address" s=
+CLIENT -> SERVER: tyle=3D"padding: 12px; color: #636363; border: 1px solid #e5e5e5;">fdsadsfd=
+CLIENT -> SERVER: sa<br>fsafda tewqrewqr<br>rewrerqew<br>afeafdsaf<br>terwtrewtr 500050<br>An=
+CLIENT -> SERVER: dhra Pradesh</address>=0A=09=09=09</td>=0A=09=09=09</tr></table>=0A<p style=
+CLIENT -> SERVER: =3D"margin: 0 0 16px;">Thanks for using dev.gunturkhadi.org.in!</p>=0A=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=09=09=09=09=09=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tr></tab=
+CLIENT -> SERVER: le>=0A<!-- End Content -->=0A</td>=0A=09=09=09=09=09=09=09=09=09=09</tr></t=
+CLIENT -> SERVER: able>=0A<!-- End Body -->=0A</td>=0A=09=09=09=09=09=09=09</tr>=0A</table>=
+CLIENT -> SERVER: =0A</td>=0A=09=09=09=09</tr>=0A<tr>=0A<td align=3D"center" valign=3D"top">=
+CLIENT -> SERVER: =0A=09=09=09=09=09=09<!-- Footer -->=0A=09=09=09=09=09=09<table border=3D"0=
+CLIENT -> SERVER: " cellpadding=3D"10" cellspacing=3D"0" width=3D"600" id=3D"template_footer"=
+CLIENT -> SERVER: ><tr>=0A<td valign=3D"top" style=3D"padding: 0; border-radius: 6px;">=0A=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"10" cellspacing=
+CLIENT -> SERVER: =3D"0" width=3D"100%"><tr>=0A<td colspan=3D"2" valign=3D"middle" id=3D"cred=
+CLIENT -> SERVER: it" style=3D'border-radius: 6px; border: 0; color: #8a8a8a; font-family: "H=
+CLIENT -> SERVER: elvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 12px; line=
+CLIENT -> SERVER: -height: 150%; text-align: center; padding: 24px 0;'>=0A=09=09=09=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09<p style=3D"margin: 0 0 16px;">khadishop =E2=80=94 Built =
+CLIENT -> SERVER: with <a href=3D"https://woocommerce.com" style=3D"color: #96588a; font-weig=
+CLIENT -> SERVER: ht: normal; text-decoration: underline;">WooCommerce</a></p>=0A=09=09=09=09=
+CLIENT -> SERVER: =09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09</tr></table>=0A=
+CLIENT -> SERVER: </td>=0A=09=09=09=09=09=09=09</tr></table>=0A<!-- End Footer -->=0A</td>=0A=
+CLIENT -> SERVER: =09=09=09=09</tr>=0A</table>=0A</div>=0A=09</body>=0A</html>=0A
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 30 Apr 2020 04:44:28 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.3
+CLIENT -> SERVER: Message-ID: <749228fec91c8c772ccca7c5ba385788@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.3.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.3, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.4.1 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 11 Jun 2020 13:10:13 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.4
+CLIENT -> SERVER: Message-ID: <3b6d85d96ffc2a0023f97584d4475268@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.4.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.4, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.4.2 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 2 Nov 2020 04:20:01 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.6
+CLIENT -> SERVER: Message-ID: <bed03859e102d07cc81cd3a460ca198f@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.6.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.6, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.5.3 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 17 Apr 2021 17:46:58 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.7
+CLIENT -> SERVER: Message-ID: <c46c664749597f0e1b34549927bf047b@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.7.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.7, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.7.1 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 24 May 2021 04:03:16 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.8
+CLIENT -> SERVER: Message-ID: <987a0749281ffbf5b79340880348cccc@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.8.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.8, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.7.2 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 17 Sep 2021 05:26:53 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.9
+CLIENT -> SERVER: Message-ID: <c99caedb8696bd6026bf083b1fc4d4fd@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.9.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.9, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.8.1 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 16 Nov 2021 15:45:33 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.10
+CLIENT -> SERVER: Message-ID: <2393d34ee16492dff1729d794e0c7e91@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.10.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.10, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.8.2 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 10 Jan 2022 04:54:41 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.11
+CLIENT -> SERVER: Message-ID: <bd10537ab69de00c8a72c47fe689354e@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.11.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.11, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.8.3 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO dev.gunturkhadi.org.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: cmFqbmlrYXJAYXJkZW50LWluZGlhLmNvbQ==
+CLIENT -> SERVER: UmFqQDE5ODI=
+CLIENT -> SERVER: MAIL FROM:<rajnikar@ardent-india.com>
+CLIENT -> SERVER: RCPT TO:<finneynissy@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 11 Mar 2022 21:48:31 +0000
+CLIENT -> SERVER: To: finneynissy@gmail.com
+CLIENT -> SERVER: From: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Reply-To: WordPress <rajnikar@ardent-india.com>
+CLIENT -> SERVER: Subject: [khadishop] Your site has updated to WordPress 5.3.12
+CLIENT -> SERVER: Message-ID: <12a6898278285d3b78d443793b2e177f@dev.gunturkhadi.org.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at http://dev.gunturkhadi.org.in has been updated automatically to WordPress 5.3.12.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.3.12, see the About WordPress screen:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.9.2 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: http://dev.gunturkhadi.org.in/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/forums/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT

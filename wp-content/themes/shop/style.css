@@ -1,0 +1,52 @@
+/*
+ Theme Name:     Shop
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    Shop Theme
+ Author:         Elegant Themes
+ Author URI:     https://www.elegantthemes.com
+ Template:       Divi
+ Version:        1.0.0
+*/
+ 
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+#logo {
+	max-height:70%;
+}
+
+.woof_sid_auto_shortcode.woof{
+	display: none;
+}
+
+.woof_products_top_panel li span
+{
+	display:none;
+}
+
+#footer-widgets {
+    padding: 3% 0 0;
+}
+
+.single-product #sidebar { display: none !important; }
+#main-content .container:before {background: none;}
+@media (min-width: 981px){
+#left-area {
+    width: 100%;
+    padding: 23px 0px 0px !important;
+    float: none !important;
+}
+} 
+
+.woocommerce-cart #sidebar {
+    display: none !important;
+}
+
+.woocommerce-checkout #sidebar {
+    display: none !important;
+}
+
+.woocommerce .cart-collaterals .cross-sells, .woocommerce-page .cart-collaterals .cross-sells {
+    display: none !important;
+}

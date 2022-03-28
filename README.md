@@ -1,0 +1,2 @@
+# git-khadishop
+ Khadi shop
