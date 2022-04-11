@@ -112,7 +112,7 @@ function et_divi_load_unminified_scripts( $load ) {
 
 	return $load;
 }
-
+/* load external style */
 function et_divi_load_unminified_styles( $load ) {
 	/** @see ET_Core_SupportCenter::toggle_safe_mode */
 	if ( et_core_is_safe_mode_active() ) {
