@@ -20,7 +20,7 @@ remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_upsell_d
 remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20 );
 
 /**
- * Show product thumbnail on checkout page.
+ * Show product thumbnail on checkout page functionality.
  *
  * @see {templates|woocommerce}/checkout/review-order.php
  */
